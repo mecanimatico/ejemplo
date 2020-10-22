@@ -1,2 +1,8 @@
-hola soy yo
-¿quien eres tu?
+Lista de instrucciones para trabajar en git
+1. Voy a la dirección de trabajo (carpeta)
+2. Para visualizar todos los archivos en la carpeta: ls -l
+3. para cambiar directorio de carpeta: cd nombre_carpeta
+4. para crear un repositorio: git init nombre_repositorio
+5. En la carpeta nombre_repositorio, se crean los archivos que se desean anexar, ej. probando.txt
+6. Para agregar un archivo: git add probando.txt
+7. Para hacer commit: git commit -m "Se agrega archivo probando.txt
