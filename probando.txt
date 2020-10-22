@@ -5,4 +5,4 @@ Lista de instrucciones para trabajar en git
 4. para crear un repositorio: git init nombre_repositorio
 5. En la carpeta nombre_repositorio, se crean los archivos que se desean anexar, ej. probando.txt
 6. Para agregar un archivo: git add probando.txt
-7. Para hacer commit: git commit -m "Se agrega archivo probando.txt
+7. Para hacer commit: git commit -m "Se agrega archivo probando.txt"
