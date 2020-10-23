@@ -9,3 +9,4 @@ Lista de instrucciones para trabajar en git
 8. Crear una nueva rama (local): git checkout -b nombre_de_la_rama
 9. Subir archivo a github: git push origin nombre_rama(local):nombre_rama(servidor)
 10. Se crea en el servidor pull request: para ello se da click en: compare pull request
+11. Bajar datos al master: git pull origin master
